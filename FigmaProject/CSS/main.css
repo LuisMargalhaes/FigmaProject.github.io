@@ -1,0 +1,118 @@
+/* SOBRE NÓS */
+.Sobre_Nós {
+    text-align: center;
+    margin: 5em;
+}
+.Sub_título {
+    font-weight: 600;
+    color: rgb(128, 31, 31);
+    padding: 2em;
+}
+.Título_SN {
+    font-weight: 600;
+    font-size: 48px;
+    padding: 1em;
+    color: black;
+}
+.Texto_SN {
+    padding: 0 10em 0 10em;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 3em;
+}
+
+
+/* PONTOS POSITIVOS */
+
+.Pontos_Positivos {
+    display: flex;
+}
+
+.Pontos_Positivos_item {
+    margin: 2em 5em 2em 5em;
+}
+
+.Título1_Ponto {
+    color: rgb(128, 31, 31);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.Título2_Ponto {
+    color: black;
+    font-size: 18px;
+    width: 500;
+    margin-top: 2em;
+}
+
+.Texto_Ponto {
+    color: #667085;
+    margin-top: 1em;
+    line-height: 1.5em;
+}
+
+/* VAGAS */
+.Vagas{
+    text-align: center;
+}
+
+.Vagas_Título{
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 5em;
+    color: rgb(0, 0, 0);
+    background-color:rgb(128, 31, 31);
+    padding: 2em;
+    border-radius: 16px;
+}
+
+
+/* VAGAS DISPONIVEIS */
+.Vagas_Disponível_Título{
+    margin: 2em 15em;
+    text-align: left;
+ }
+ 
+ 
+ 
+ .Título_Vaga_Disponível{
+     font-size: 20px;
+     color: #101828;
+     font-weight: 500;
+     margin:5em 2em 2em 2em;
+ }
+ 
+ .Vagas_Disponível_Container{
+     border: 2px solid #EAECF0;
+     margin: 1em;
+     padding: 2em;
+     border-radius: 16px;
+     box-shadow: 1px 1px 2px  black;
+ }
+
+ 
+ .Vagas_Disponível{
+     font-size: 18px;
+     font-weight: 500;
+     color: #101828;
+ }
+ 
+ .Descrição_Vaga_Container{
+     display: flex;
+     margin-top: 2em;
+ }
+ 
+ .Descrição_Vaga{
+     font-size: 16px;
+     font-weight: 500;
+     line-height: 24px;
+     margin-right: 4em;
+     color:#667085;
+ }
+
+
+/* COBALORADORES */
+
+
+
